@@ -3,6 +3,7 @@
 import random
 import time
 import sys
+
 #class Debuff(self):
 #    """Class to handle debuffs"""
 #    def status_effect_add(self, effect):
