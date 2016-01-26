@@ -235,5 +235,6 @@ while game_is_running:
             print "You fall down, defeated"
             game_is_running = False
             break
+    gamecount += 1        
 print "Thanks for playing"
 print '\n'
